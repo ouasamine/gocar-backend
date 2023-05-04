@@ -1,5 +1,3 @@
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#[project])
@@ -15,16 +13,15 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgments)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 goCar <a name="about-project"></a>
+# 📖 goCar <a name="project"></a>
 
-**Ruby on Rails**
+**goCar** is a web app to book cars online, after registering as user on the app you can access the available cars and book one of them if you like. The app is built with Ruby on Rails and React.JS where both back and front ends are integrated using a REST API.
 
-goCar is a web app to book cars online, after registering as user on the app you can access the available cars and book one of them if you like. The app is built with Ruby on Rails and React.JS where both back and front ends are integrated using a REST API.
+> This repo contain the back-end code of the project, you can find the front-end repo on [here](https://github.com/ouasamine/gocar-frontend)
 
 ## Built With
 
@@ -36,23 +33,13 @@ goCar is a web app to book cars online, after registering as user on the app you
   <li><a href="https://www.postgresql.org/">PostgreSQL 15</a></li>
 </ul>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
-- **REST API**
-- **Simple authentication**
-
-
-
-<!-- LIVE DEMO -->
+- REST API
+- Simple authentication
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Link](https://i-model-cars.onrender.com/api/v1)
-- [Link to frontend repo.](https://github.com/GordonOtieno/i-model-cars-frontend)
-- [Link to API documentation](https://i-model-cars.onrender.com/api-docs/index.html)
-
+[Live app](www.google.com)
 
 ## Getting Started 
 
@@ -132,9 +119,6 @@ Feel free to check the [issues page](../../issues/).
 - I would like to thank *Gregoire Vella on Behance*
 - Hat tip to anyone whose code was used.
 - Inspiration, etc.
-
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
